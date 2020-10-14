@@ -28,10 +28,6 @@ override fun onCreate(savedInstanceState: Bundle?) {
 
     val str = sessionManager.TOKEN
 }
-
-private fun setToken(str: String){
-    //set to text view
-}
 ```
 
 ---
